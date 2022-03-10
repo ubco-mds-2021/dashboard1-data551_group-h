@@ -1,7 +1,15 @@
-# US School Finder Dashboard (Group H)
+# US School Finder (Group H)
 
-- The title can change over time.
-- The dashboards helps the students and their guardians in selecting schools for higher education based on all the analysis taken into the consideration across various states of the United States. For examples, our visualization includes Comparison between Tuition fees with the national tuition fees.
+[Link to the deployed app](https://us-school-finder.herokuapp.com/),please note it's slow on the Heroku deployment and will take a few seconds to load and a few more seonds to update after any interactions.
+
+[Link to Navdeep's Deployment](https://us-school-finder-navdeep.herokuapp.com/)
+[Link to Bowen's Deployment](https://us-school-finder-bowen.herokuapp.com/)
+[Link to Can's Deployment](https://us-school-finder-can.herokuapp.com/)
+
+## Goals
+
+- The dashboard helps the students and their guardians in selecting schools for higher education based on all the analysis taken into the consideration across various states of the United States.
+- It will help them to make better decisions for the school selection considering tuition fees, salaries, state etc
 
 ## Team Members
 
