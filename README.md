@@ -17,7 +17,7 @@ We will be visualizing a dataset of approximately 3,000 colleges & universities 
 
 ## About this Dashboard
 
-<img src ="dashboard.png" width="1000px">
+<img src ="dashboard.jpg" width="1000px">
 
 ### Description of our app & sketch
 
