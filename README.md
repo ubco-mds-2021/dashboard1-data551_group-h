@@ -1,7 +1,6 @@
 # US School Finder (Group H)
 
-[Link to the deployed app](https://us-school-finder.herokuapp.com/),please note it's slow on the Heroku deployment and will take a few seconds to load and a few more seonds to update after any interactions.
-
+[Link to the deployed app](https://us-school-finder.herokuapp.com/)
 [Link to Navdeep's Deployment](https://us-school-finder-navdeep.herokuapp.com/)
 [Link to Bowen's Deployment](https://us-school-finder-bowen.herokuapp.com/)
 [Link to Can's Deployment](https://us-school-finder-can.herokuapp.com/)
