@@ -33,5 +33,11 @@ The app contains a U.S. map that shows all the states. The map is interactive an
 
 This version include all features in the "Simple Version", and also contains a heat map for showing average tuition cost / salary of graduates of each state.
 
-## Acknowledgements and references 
+## Developer Notes
+
+If you are interested in contributing to our application, please let us know through emails. We would like some expert's opinions on the funcationality and UI of the dashboard. Here is a demo on how to run our application locally:
+
+- Clone the project from Github.
+- Install dependencies on your local computer for this project.
+- Open a terminal in the project, run python app.py in the src folder, then navigate to localhost:8050 in your web browser to see the running application.
 
