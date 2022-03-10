@@ -6,7 +6,7 @@
 ## Team Members
 
 - Can Jiang
-- PBowen Yang
+- Bowen Yang
 - Navdeep Singh Saini
 
 ## Describe your topic/interest in about 150-200 words
